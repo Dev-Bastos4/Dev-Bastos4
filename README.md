@@ -7,7 +7,7 @@ Estou começando minha carreira em programação!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gui_bass4)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail.com/go9006811@gmail.com)
 
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme&show_icons=true&theme=tokyonight)
+![Dev_Bastos4 GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que eu mais ultilizo em meu dia-a-dia 
 
