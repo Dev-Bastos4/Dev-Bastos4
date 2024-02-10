@@ -1,4 +1,4 @@
-### Olá eu sou Guilherme Bastos!✌🏻 
+### Olá eu sou Guilherme!✌🏻 
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BeRSp07LiQfatkVpdIteTwQ%3D%3D)
@@ -7,10 +7,13 @@
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme&show_icons=true&theme=tokyonight)
 
-## Tecnologias que eu uso em meu dia-a-dia
+## Tecnologias que eu mais ultilizo em meu dia-a-dia 
 
 <div style="display: inline_block"></br>
   <img align="center" alt="html 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" alt="css 3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img align="center" alt="vue js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
+
+Começando a carreira na área da programação!
